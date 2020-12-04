@@ -12,7 +12,7 @@ A través del celular.
 
 A través de una PC.
 
-![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/conexi%C3%B3n%20a%20internet.jpg)
+![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/robot%20Wifi1.jpg)
 
 A través de una Notebook.
 
