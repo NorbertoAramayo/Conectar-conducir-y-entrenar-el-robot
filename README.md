@@ -6,3 +6,5 @@ Para conectar el robot guía experimental lo podemos hacer mediante la señal Wi
 
 Entrenamientyo del modelo
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/entrenar%20el%20modelo.JPG)
+
+## [Regresar](https://github.com/NorbertoAramayo/Vehiculo-Guia-Autonomo-Experimental/blob/main/README.md#6-conexi%C3%B3n-para-la-conduci%C3%B3n---entrenamiento-del-modelo)
