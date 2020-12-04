@@ -4,8 +4,9 @@ Para conectar el robot guía experimental lo podemos hacer mediante la señal Wi
 
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/conexi%C3%B3n%20a%20internet.jpg)
 
-De este modo se puede ver como es posible captar las imágnes que captura el robot en su recrrido mediante internet
-A través del celular
+De este modo se puede ver como es posible obtener las imágnes que captura el robot en su recorrido mediante internet.
+
+A través del celular.
 ![myimage-alt-tag](https://github.com/NorbertoAramayo/archivosnuevos/blob/main/webcel.jpg)
 
 A través de una PC
